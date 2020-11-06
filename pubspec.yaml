@@ -1,6 +1,6 @@
 name: magic_button
 description: A Flutter popup menu.Writted with pure dart, supported both iOS and Android.
-version: 0.0.1
+version: 1.0.1
 author: henryhongli <261930323@qq.com>
 homepage: https://github.com/henryhongli/magic_button.git
 
